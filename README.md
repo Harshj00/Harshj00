@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-Harsh Kumar Jha || B.Tech Computer Science Engineering <br>Student At K.R MANGALAM UNIVERSITY || Passionate about Coding ||<br> Exploring New Tech Everyday || JAVA, HTML, CSS, JS,  PYTHON
+Harsh Kumar Jha || B.Tech Computer Science Engineering <br>Student At K.R MANGALAM UNIVERSITY || Passionate about Coding ||<br> Exploring New Tech Everyday || JAVA, Hiernate, HTML, CSS, JS,  PYTHON
 
 
 ## 🌐 Socials:
