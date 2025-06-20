@@ -1,4 +1,4 @@
-#G0D
+# GOD's RECOGNIZE GOD's.....
 
 ![Vanilla@1x-0 6s-265px-61px](https://github.com/user-attachments/assets/d75131d8-af80-4505-8121-fcc92aaab4bc)
 
