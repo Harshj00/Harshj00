@@ -1,6 +1,13 @@
-# GOD's RECOGNIZE GOD's.....
+<p align="center">𝐺𝑜𝑑 𝑖𝑠 𝑊𝑖𝑡ℎ 𝑀𝑒, 𝐼 𝐶𝑎𝑛'𝑡 𝐿𝑜𝑠𝑒 </p>
 
-![Vanilla@1x-0 6s-265px-61px](https://github.com/user-attachments/assets/d75131d8-af80-4505-8121-fcc92aaab4bc)
+<pre>
+    __  __                 __        _ _ __           
+   / / / /___ ___________ / /_         / / /_  ____ _
+  / /_/ / __ `/ ___/ ___// __ \   _   / / __ \/ __ `/
+ / __  / /_/ / /  (__  )/ / / /  | |_/ / / / / /_/ / 
+/_/ /_/\__,_/_/  /____//_/ /_/   \____/_/ /_/\__,_/_  
+
+</pre>
 
 
 # 💫 About Me:
@@ -37,5 +44,4 @@ Harsh Kumar Jha || B.Tech Computer Science Engineering <br>Student @K.R MANGALAM
 ---
 [![](https://visitcount.itsvg.in/api?id=Harshj00&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
