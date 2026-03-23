@@ -11,7 +11,7 @@
 
 
 # 💫About:
-Harsh Kumar Jha | B.Tech Computer Science Engineering <br>Student | Passionate about Coding <br> Exploring New Tech Everyday 
+Harsh Kumar Jha | B.Tech Computer Science Engineering <br>Student | Passionate about Coding 
 <br>Java, Hibernate, Html, CSS, JS, Python <br> Git • GitHub • VS Code • Firebase • Vercel • Figma
 
 
