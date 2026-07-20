@@ -26,8 +26,6 @@ Harsh Kumar Jha | B.Tech Computer Science Engineering <br>Student | Passionate a
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 [![](https://visitcount.itsvg.in/api?id=harshj00&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### CODOLIO CARD
-![](https://codolio.com/profile/bytebiceps/card)
 
 
 
