@@ -42,7 +42,7 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
 
 <br/><br/>
 
-**I swear I'm woke on code, even if my neck pillow says otherwise**<h2 align="center">    😴</h2>
+<sub><i>"I swear I'm woke on code, even if my neck pillow says otherwise 😴"</i></sub>
 
 </td>
 </tr>
@@ -137,16 +137,5 @@ Bro is trying to reach his 10,000 steps for the day. :)
     alt="E-mail"
   />
 </a>
-
 <br/><br/>
-### Let's build something awesome together.
-
-<a href="https://github.com/Harshj00">
-  <img
-    src="https://img.shields.io/badge/OPEN%20TO%20COLLABORATION-111111?style=for-the-badge&logo=github&logoColor=white"
-    alt="Open to collaboration"
-  />
-</a>
-
 </div>
-
