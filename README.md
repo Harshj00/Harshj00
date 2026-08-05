@@ -1,43 +1,50 @@
 <div align="center">
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:0A0A0A,65:111827,85:172554,100:2563EB&height=280&section=header&text=HARSH%20KUMAR%20JHA&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20%26%20BACKEND%20DEVELOPER&descAlignY=58&descSize=17&descColor=94A3B8&animation=fadeIn" width="100%"/>
+<!--                         PREMIUM HERO                           -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,25:0B1120,50:172554,75:1D4ED8,100:06B6D4&text=HARSH%20KUMAR%20JHA&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20AI%20BUILDER%20%E2%80%A2%20BACKEND%20ENGINEER&descAlignY=59&descSize=17&descColor=BAE6FD&animation=twinkling&section=header"/>
 
 <br/>
 
-# Hey there, I'm Harsh Kumar Jha.
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+AI+Builder;Java+%7C+Spring+Boot+%7C+PyTorch+%7C+React;Backend+Systems+%7C+Machine+Learning+%7C+Computer+Vision;Build+quietly.+Ship+consistently.;Focused+on+becoming+better+every+day." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&width=900&lines=I+build+systems%2C+not+just+projects.;Java+%7C+Spring+Boot+%7C+PyTorch+%7C+React;AI+%7C+Backend+Engineering+%7C+Computer+Vision;Think+deep.+Build+hard.+Ship+clean.;Quiet+work.+Loud+results." alt="Typing Animation"/>
 
 <br/><br/>
 
 <a href="https://github.com/Harshj00">
-<img src="https://img.shields.io/github/followers/Harshj00?style=for-the-badge&logo=github&logoColor=FFFFFF&label=FOLLOWERS&labelColor=050505&color=171717"/>
+<img src="https://img.shields.io/github/followers/Harshj00?style=for-the-badge&logo=github&logoColor=FFFFFF&label=FOLLOWERS&labelColor=020617&color=172554"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/Harshj00?tab=repositories">
-<img src="https://img.shields.io/github/stars/Harshj00?style=for-the-badge&logo=github&logoColor=FFFFFF&label=STARS&labelColor=050505&color=1E3A8A"/>
+<img src="https://img.shields.io/github/stars/Harshj00?style=for-the-badge&logo=github&logoColor=FFFFFF&label=STARS&labelColor=020617&color=1D4ED8"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=Harshj00&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS&labelColor=050505"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Harshj00&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS&labelColor=020617"/>
 
 <br/><br/>
 
 <a href="https://Harshjha08.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/◈%20PORTFOLIO-020617?style=for-the-badge&labelColor=020617&color=1E3A8A"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/harshgod/">
-<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/◈%20LINKEDIN-020617?style=for-the-badge&labelColor=020617&color=0369A1"/>
 </a>
-
+&nbsp;
 <a href="mailto:harshjha082004@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/◈%20EMAIL-020617?style=for-the-badge&labelColor=020617&color=334155"/>
 </a>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Harshj00/Harshj00/main/assets/coding.gif" width="400" alt="Coding"/>
+<img src="https://raw.githubusercontent.com/Harshj00/Harshj00/main/assets/coding.gif" width="430" alt="Coding Animation"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1D4ED8,100:06B6D4&height=2&section=header" width="75%"/>
 
 </div>
 
@@ -45,61 +52,73 @@
 
 <div align="center">
 
-## `01` — ABOUT ME
+# ⚡ `ABOUT ME`
+
+### **BUILDING IN SILENCE. ENGINEERING WITH INTENT.**
 
 </div>
 
 <table>
 <tr>
-<td width="68%" valign="top">
+<td width="65%" valign="top">
 
-### Harsh Kumar Jha
+## Harsh Kumar Jha
 
-Final-year **Computer Science & Engineering student** focused on software engineering, backend systems and AI-powered applications.
+I'm a **final-year Computer Science & Engineering student** focused on building intelligent software, backend systems, and real-world applications.
 
-I like working where **software engineering meets intelligence** — designing APIs, building backend architectures, integrating ML models and turning ideas into usable products.
-
-```text
-SOFTWARE ENGINEERING
-        │
-        ├── Backend Systems
-        ├── Artificial Intelligence
-        ├── Machine Learning
-        ├── Computer Vision
-        └── Full-Stack Applications
-```
-
-* ⚔️ Building **production-oriented AI applications**
-* ☕ Focused on **Java + Spring Boot + backend engineering**
-* 🧠 Working with **PyTorch, TorchScript, DJL & LLM APIs**
-* 🔬 Exploring **Computer Vision & real-time inference**
-* 🗄️ Building with **PostgreSQL, Supabase & Docker**
-* 🧩 Strengthening **DSA, OOP & System Design**
-* 🎯 Working toward becoming a **high-impact Software Engineer**
+My engineering interests sit at the intersection of:
 
 <br/>
 
-> **Discipline over motivation.
-> Execution over intention.
-> Progress over perfection.**
+```text
+             SOFTWARE ENGINEERING
+                      │
+          ┌───────────┼───────────┐
+          ↓           ↓           ↓
+       BACKEND       AI/ML      SYSTEMS
+          │           │           │
+     Spring Boot   PyTorch     Architecture
+     REST APIs     LLM APIs    Scalability
+     Security      CV          Performance
+     Databases     Inference   Reliability
+```
+
+<br/>
+
+🔹 **Backend:** Java, Spring Boot, Spring Security, REST APIs
+🔹 **AI/ML:** PyTorch, TorchScript, DJL, scikit-learn
+🔹 **Intelligence:** LLM APIs, OpenAI API, Computer Vision
+🔹 **Data:** PostgreSQL, Supabase, Pandas
+🔹 **Frontend:** React, Tailwind CSS, JavaScript
+🔹 **Engineering:** DSA, OOP, DBMS, OS, System Design
+🔹 **Infrastructure:** Docker, OCI, Git, GitHub
+
+<br/>
+
+> **I don't chase every technology.
+> I go deep on the ones that matter.**
 
 </td>
 
-<td width="32%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 
 <img src="https://avatars.githubusercontent.com/u/000000000?v=4" width="220" alt="Harsh Kumar Jha"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-050505?style=for-the-badge&logoColor=FFFFFF"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/BUILD-AI%20%2B%20BACKEND-111827?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/FOCUS-BACKEND%20%2B%20AI-020617?style=for-the-badge&logoColor=FFFFFF"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/MINDSET-DISCIPLINE-172554?style=for-the-badge&logoColor=FFFFFF"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-0369A1?style=for-the-badge&logoColor=FFFFFF"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/BASED_IN-INDIA-0F172A?style=for-the-badge&logoColor=FFFFFF"/>
 
 </td>
 </tr>
@@ -109,11 +128,11 @@ SOFTWARE ENGINEERING
 
 <div align="center">
 
-## `02` — TECH STACK
+# 🧬 `TECH ARSENAL`
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js&theme=dark" />
 
 <br/><br/>
 
@@ -121,14 +140,14 @@ SOFTWARE ENGINEERING
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark"/>
 
   
 
-<img src="https://img.shields.io/badge/TorchScript-0B0F14?style=for-the-badge&logo=pytorch&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/DJL-0B0F14?style=for-the-badge&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/LLM%20APIs-0B0F14?style=for-the-badge&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/MediaPipe-0B0F14?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/TORCHSCRIPT-020617?style=for-the-badge&logo=pytorch&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/DJL-020617?style=for-the-badge&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/LLM%20APIs-020617?style=for-the-badge&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/MEDIAPIPE-020617?style=for-the-badge&logoColor=38BDF8"/>
 
 <br/><br/>
 
@@ -138,13 +157,21 @@ SOFTWARE ENGINEERING
 
 <img src="https://skillicons.dev/icons?i=vscode,idea,postman&theme=dark" />
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CORE-DSA%20%7C%20OOP%20%7C%20SYSTEM%20DESIGN%20%7C%20DBMS-020617?style=for-the-badge&labelColor=020617&color=172554"/>
+
 </div>
 
 ---
 
 <div align="center">
 
-## `03` — WHAT I BUILD
+# 🛰️ `SELECTED WORK`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1D4ED8,100:06B6D4&height=2&section=header" width="60%"/>
 
 </div>
 
@@ -153,64 +180,86 @@ SOFTWARE ENGINEERING
 
 <td width="50%" valign="top">
 
-### `01` / HJFraudguard
+<div align="center">
 
-## 🛡️ Real-Time AI Fraud Detection
+### 🛡️ HJFRAUDGUARD
 
-A production-oriented fraud detection system combining **Java, Spring Boot and PyTorch** with model inference directly inside the JVM.
+**REAL-TIME AI FRAUD DETECTION**
 
-**STACK**
+</div>
 
-`Java 21` `Spring Boot` `Spring Security`
-`PyTorch` `TorchScript` `DJL`
-`React` `PostgreSQL` `Docker`
-
-**ENGINEERING**
-
-* PyTorch Autoencoder integrated through **DJL**
-* TorchScript inference directly inside the JVM
-* Trained on **284,807 real transactions**
-* **0.97 AUC** / **0.58 F1**
-* JWT authentication
-* Real-time transaction analytics
-* React + Tailwind dashboard
+A production-oriented fraud detection platform combining **Spring Boot + PyTorch** with model inference running directly inside the JVM.
 
 <br/>
 
+**ENGINEERING**
+
+* ⚡ PyTorch Autoencoder through **DJL**
+* 🧠 TorchScript inference inside JVM
+* 📊 **284,807** real credit-card transactions
+* 🎯 **0.97 AUC**
+* 🔐 JWT authentication
+* 🗄️ PostgreSQL
+* 📡 Real-time transaction analytics
+* 🎨 React + Tailwind dashboard
+* 🐳 Dockerized services
+
+<br/>
+
+<div align="center">
+
+`JAVA 21` `SPRING BOOT` `PYTORCH`
+`DJL` `TORCHSCRIPT` `REACT`
+`POSTGRESQL` `DOCKER`
+
+<br/><br/>
+
 <a href="https://github.com/Harshj00/HJFraudguard">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0B1120?style=for-the-badge&logo=github&logoColor=FFFFFF&color=1D4ED8"/>
 </a>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-### `02` / ConsultCA
+<div align="center">
 
-## 🤖 AI Co-Pilot for CAs
+### 🤖 CONSULTCA
 
-Full-stack AI application designed to accelerate **Indian tax-law research** and regulatory queries.
+**AI CO-PILOT FOR INDIAN CAs**
 
-**STACK**
+</div>
 
-`React` `Supabase` `PostgreSQL`
-`OpenAI API` `Tailwind CSS` `Docker`
-
-**ENGINEERING**
-
-* OpenAI GPT API integration
-* Prompt streaming
-* Real-time regulatory responses
-* Normalized PostgreSQL data layer
-* Per-user data isolation
-* Dockerized services
-* **60% reduction** in manual research time during active testing
+A full-stack AI co-pilot designed to accelerate **Indian tax-law research** and regulatory queries.
 
 <br/>
 
+**ENGINEERING**
+
+* 🧠 OpenAI GPT API integration
+* ⚡ Prompt streaming
+* 🧾 Regulatory research assistance
+* 🗄️ Normalized PostgreSQL layer
+* 🔐 Per-user data isolation
+* 🐳 Dockerized architecture
+* 📉 **60% reduction** in manual research time during active testing
+
+<br/>
+
+<div align="center">
+
+`REACT` `SUPABASE` `POSTGRESQL`
+`OPENAI API` `TAILWIND` `DOCKER`
+
+<br/><br/>
+
 <a href="https://github.com/Harshj00/ConsultCA">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0B1120?style=for-the-badge&logo=github&logoColor=FFFFFF&color=1D4ED8"/>
 </a>
+
+</div>
 
 </td>
 
@@ -220,60 +269,84 @@ Full-stack AI application designed to accelerate **Indian tax-law research** and
 
 <td width="50%" valign="top">
 
-### `03` / HarshTrains
+<div align="center">
 
-## 🏋️ Browser-Native AI Fitness Coach
+### 🏋️ HARSHTRAINS
 
-Mobile-first fitness platform using **real-time browser-based human pose estimation**.
+**BROWSER-NATIVE AI FITNESS COACH**
 
-**STACK**
+</div>
 
-`JavaScript` `MediaPipe`
-`HTML5` `Canvas API` `REST APIs`
-
-**ENGINEERING**
-
-* **100+ exercises**
-* Real-time pose estimation
-* Frame-by-frame joint-angle analysis
-* INT8 model quantization
-* Zero-install browser experience
-* **<100ms/frame** inference latency
-* **30+ FPS** on mobile hardware
+A mobile-first fitness platform bringing **real-time human pose estimation** directly into the browser.
 
 <br/>
 
+**ENGINEERING**
+
+* 🏋️ **100+ exercises**
+* 🧠 MediaPipe pose estimation
+* 📐 Frame-by-frame joint analysis
+* ⚡ INT8 model quantization
+* 📱 Mobile-first architecture
+* 🚀 **<100ms/frame**
+* 🎥 **30+ FPS** on mobile hardware
+
+<br/>
+
+<div align="center">
+
+`JAVASCRIPT` `MEDIAPIPE`
+`HTML5 CANVAS` `REST APIs`
+
+<br/><br/>
+
 <a href="https://harshtrains.netlify.app">
-<img src="https://img.shields.io/badge/LIVE%20PROJECT-172554?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LIVE%20PROJECT-0B1120?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&color=0369A1"/>
 </a>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-### `04` / NEXT
+<div align="center">
 
-## More Systems In Progress.
+### ◇ NEXT BUILD
 
-I don't want to build dozens of unfinished projects.
+**THE NEXT SYSTEM IS LOADING...**
 
-I want to build a smaller number of systems that are:
+<br/>
 
 ```text
-USEFUL
-   ↓
-WELL ENGINEERED
-   ↓
-MEASURABLE
-   ↓
-SHIPPED
+┌─────────────────────────────┐
+│                             │
+│       THINK DEEP            │
+│          ↓                  │
+│       ENGINEER              │
+│          ↓                  │
+│       TEST HARD             │
+│          ↓                  │
+│       SHIP CLEAN            │
+│          ↓                  │
+│       REPEAT                │
+│                             │
+└─────────────────────────────┘
 ```
 
 <br/>
 
+**No project spam.**
+
+Only systems worth building.
+
+<br/>
+
 <a href="https://github.com/Harshj00?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-020617?style=for-the-badge&logo=github&logoColor=FFFFFF&color=172554"/>
 </a>
+
+</div>
 
 </td>
 
@@ -284,12 +357,13 @@ SHIPPED
 
 <div align="center">
 
-## `04` — ENGINEERING MINDSET
+# 🧠 `ENGINEERING PHILOSOPHY`
 
 <br/>
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### ⚙️ BUILD
@@ -303,8 +377,8 @@ for perfect conditions.
 
 ### 🧠 LEARN
 
-Understand
-the fundamentals.
+Master fundamentals
+before abstractions.
 
 </td>
 
@@ -313,7 +387,7 @@ the fundamentals.
 ### ⚔️ DISCIPLINE
 
 Consistency
-beats intensity.
+beats motivation.
 
 </td>
 
@@ -321,39 +395,37 @@ beats intensity.
 
 ### 🚀 SHIP
 
-Ideas matter
-when executed.
+Execution
+creates results.
 
 </td>
+
 </tr>
 </table>
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=No+noise.+No+excuses.+Just+execution.;Stay+focused.+Stay+dangerous.;Let+the+work+speak." alt="Mindset Animation"/>
+
 </div>
 
 ---
 
 <div align="center">
 
-## `05` — GITHUB ANALYTICS
+# 📊 `GITHUB INTELLIGENCE`
 
 <br/>
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=Harshj00&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=050505&title_color=FFFFFF&icon_color=60A5FA&text_color=94A3B8"
-height="180"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harshj00&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=020617&title_color=FFFFFF&icon_color=38BDF8&text_color=94A3B8&ring_color=2563EB" height="180"/>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshj00&layout=compact&hide_border=true&langs_count=8&bg_color=050505&title_color=FFFFFF&text_color=94A3B8"
-height="180"
-/>
+  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshj00&layout=compact&hide_border=true&langs_count=8&bg_color=020617&title_color=FFFFFF&text_color=94A3B8" height="180"/>
 
 <br/><br/>
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Harshj00&hide_border=true&background=050505&ring=2563EB&fire=60A5FA&currStreakLabel=FFFFFF&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"
-width="72%"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshj00&hide_border=true&background=020617&ring=2563EB&fire=38BDF8&currStreakLabel=FFFFFF&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" width="72%"/>
 
 </div>
 
@@ -361,14 +433,11 @@ width="72%"
 
 <div align="center">
 
-## `06` — CONTRIBUTION ACTIVITY
+# 📈 `ACTIVITY`
 
 <br/>
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Harshj00&bg_color=050505&color=94A3B8&line=2563EB&point=60A5FA&area=true&hide_border=true&custom_title=BUILDING%20IN%20SILENCE"
-width="96%"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshj00&bg_color=020617&color=94A3B8&line=2563EB&point=38BDF8&area=true&hide_border=true&custom_title=BUILDING%20IN%20SILENCE" width="96%"/>
 
 </div>
 
@@ -376,7 +445,7 @@ width="96%"
 
 <div align="center">
 
-## `07` — CONTRIBUTION SNAKE
+# 🐍 `CONTRIBUTION SNAKE`
 
 <br/>
 
@@ -410,11 +479,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 -->
 
-<img
-src="https://raw.githubusercontent.com/Harshj00/Harshj00/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub Contribution Snake"
-width="95%"
-/>
+<img src="https://raw.githubusercontent.com/Harshj00/Harshj00/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake"/>
 
 </div>
 
@@ -422,87 +487,19 @@ width="95%"
 
 <div align="center">
 
-## `08` — CERTIFICATIONS
+# ☁️ `CLOUD & CERTIFICATIONS`
 
 <br/>
 
-<img src="https://img.shields.io/badge/ORACLE%20CLOUD-Generative%20AI%20Professional-050505?style=for-the-badge&logo=oracle&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/ORACLE%20CLOUD-Generative%20AI%20Professional-020617?style=for-the-badge&logo=oracle&logoColor=FFFFFF&color=7C3AED"/>
 
-<img src="https://img.shields.io/badge/ORACLE%20CLOUD-Developer%20Professional-050505?style=for-the-badge&logo=oracle&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/ORACLE%20CLOUD-Developer%20Professional-020617?style=for-the-badge&logo=oracle&logoColor=FFFFFF&color=2563EB"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/ORACLE%20CLOUD-Multicloud%20Architect%20Professional-050505?style=for-the-badge&logo=oracle&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/ORACLE%20CLOUD-Multicloud%20Architect%20Professional-020617?style=for-the-badge&logo=oracle&logoColor=FFFFFF&color=0369A1"/>
 
-<img src="https://img.shields.io/badge/ORACLE%20CLOUD-Foundations%20Associate-050505?style=for-the-badge&logo=oracle&logoColor=FFFFFF"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `09` — CORE ENGINEERING
-
-<br/>
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### BACKEND
-
-`Java`
-`Spring Boot`
-`Spring Security`
-`Hibernate`
-`REST APIs`
-`JWT`
-
-</td>
-
-<td align="center" width="25%">
-
-### AI / ML
-
-`PyTorch`
-`TorchScript`
-`DJL`
-`scikit-learn`
-`LLM APIs`
-`MediaPipe`
-
-</td>
-
-<td align="center" width="25%">
-
-### DATA
-
-`PostgreSQL`
-`Supabase`
-`SQL`
-`Pandas`
-`Data Processing`
-`Analytics`
-
-</td>
-
-<td align="center" width="25%">
-
-### FUNDAMENTALS
-
-`DSA`
-`OOP`
-`System Design`
-`DBMS`
-`Operating Systems`
-`Git`
-
-</td>
-
-</tr>
-</table>
+<img src="https://img.shields.io/badge/ORACLE%20CLOUD-Foundations%20Associate-020617?style=for-the-badge&logo=oracle&logoColor=FFFFFF&color=334155"/>
 
 </div>
 
@@ -510,38 +507,48 @@ width="95%"
 
 <div align="center">
 
-## `10` — CONNECT
+# 🌐 `FIND ME`
 
 <br/>
 
 <a href="https://github.com/Harshj00">
-<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=FFFFFF&color=111827"/>
 </a>
+
+ 
 
 <a href="https://www.linkedin.com/in/harshgod/">
-<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=0369A1"/>
 </a>
+
+ 
 
 <a href="https://x.com/harsh_j0">
-<img src="https://img.shields.io/badge/X-050505?style=for-the-badge&logo=x&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/X-020617?style=for-the-badge&logo=x&logoColor=FFFFFF&color=111827"/>
 </a>
+
+ 
 
 <a href="https://www.instagram.com/byte_biceps/">
-<img src="https://img.shields.io/badge/INSTAGRAM-050505?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-020617?style=for-the-badge&logo=instagram&logoColor=FFFFFF&color=111827"/>
 </a>
+
+ 
 
 <a href="https://www.youtube.com/@ByteBiceps">
-<img src="https://img.shields.io/badge/YOUTUBE-050505?style=for-the-badge&logo=youtube&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/YOUTUBE-020617?style=for-the-badge&logo=youtube&logoColor=FFFFFF&color=111827"/>
 </a>
 
+ 
+
 <a href="mailto:harshjha082004@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=FFFFFF&color=111827"/>
 </a>
 
 <br/><br/>
 
 <a href="https://Harshjha08.vercel.app">
-<img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-172554?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/↗%20VISIT%20MY%20PORTFOLIO-020617?style=for-the-badge&logo=vercel&logoColor=FFFFFF&color=1D4ED8"/>
 </a>
 
 </div>
@@ -552,16 +559,14 @@ width="95%"
 
 <br/>
 
-### `NO NOISE. JUST WORK.`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Stay+focused.;Keep+building.;Master+the+fundamentals.;Let+the+work+speak." alt="Final message"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Stay+focused.;Keep+building.;Master+the+fundamentals.;Let+the+work+speak." alt="Final Animation"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Harshj00&style=flat-square&color=2563EB&label=VISITORS&labelColor=050505"/>
+<img src="https://komarev.com/ghpvc/?username=Harshj00&style=flat-square&color=2563EB&label=VISITORS&labelColor=020617"/>
 
 <br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:06B6D4,25:2563EB,50:1D4ED8,75:172554,100:020617&section=footer&animation=twinkling"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,30:172554,60:111827,80:0A0A0A,100:050505&height=160&section=footer&animation=fadeIn" width="100%"/>
