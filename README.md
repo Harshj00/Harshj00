@@ -1,10 +1,3 @@
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-   <img alt="Logo for Harsh Kumar Jha" src="art/header-light.png">
-</picture>
-
-<div align="center">
-
 <br/>
 
 # ✧ Harsh Kumar Jha ✧
