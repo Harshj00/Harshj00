@@ -19,9 +19,6 @@
   <a href="https://www.linkedin.com/in/harshgod/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:harshjha082004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 <br/>
