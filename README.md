@@ -18,21 +18,13 @@
 
 <br/>
 
-<a href="https://github.com/Harshj00">
-  <img src="https://komarev.com/ghpvc/?username=Harshj00&label=PROFILE%20VIEWS&color=111111&style=for-the-badge" alt="Profile views" />
-</a>
-&nbsp;
-<a href="https://github.com/Harshj00?tab=followers">
-  <img src="https://img.shields.io/github/followers/Harshj00?label=FOLLOWERS&style=for-the-badge&color=111111&labelColor=000000" alt="GitHub followers" />
-</a>
-
 </div>
 
 <br/>
 
 ---
 
-## 🖤 About Me
+## 𓀋 About Me
 
 <table>
 <tr>
@@ -40,17 +32,15 @@
 
 ### Hey! I'm Harsh 👨‍💻
 
-I'm a **Computer Science Engineering student** passionate about turning ideas into useful, scalable, and visually polished software.
+I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas into useful, scalable, and visually polished software.
 
-- 🚀 Building projects across **Full-Stack Development, AI/ML & Backend Engineering**
-- ☕ Working primarily with **Java, Python & Spring Boot**
-- 🧠 Exploring **Artificial Intelligence, Machine Learning & Generative AI**
-- 🗄️ Comfortable working with **SQL, PostgreSQL & MySQL**
-- ⚡ Interested in **clean architecture, scalable systems & developer tools**
-- 🔨 I enjoy transforming concepts into **real-world applications**
-- 📚 Constantly learning, experimenting, and improving
-- 🎯 Focused on becoming a stronger **Software Engineer**
-
+- Building projects across **Full-Stack Development, AI/ML & Backend Engineering**
+- Working primarily with **Java, Python & Spring Boot**
+- Exploring **Artificial Intelligence, Machine Learning & Generative AI**
+- Comfortable working with **SQL, PostgreSQL & MySQL**
+- Interested in **clean architecture, scalable systems & developer tools**
+- I enjoy transforming concepts into **real-world applications**
+- Constantly learning, experimenting, and improving
 <br/>
 
 > **"Build. Break. Learn. Repeat."**
