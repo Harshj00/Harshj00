@@ -131,21 +131,6 @@
 
 <br/>
 
-<h2 align="center">☁️ Certifications</h2>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Oracle%20Cloud-Generative%20AI%20Professional-000000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Oracle%20Cloud-Developer%20Professional-000000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Oracle%20Cloud-Multicloud%20Architect%20Professional-000000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Oracle%20Cloud-Foundations%20Associate-000000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-</p>
 
 <br/>
 
