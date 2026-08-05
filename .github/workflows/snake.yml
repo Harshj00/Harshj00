@@ -25,12 +25,15 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=#ffffff&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
             dist/github-contribution-grid-snake-dark.svg?color_snake=#ffffff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
+      # Inject CSS into SVGs to color the snake head red
       - name: Color snake head red
         run: |
-          sed -i 's/class="snake"/class="snake" fill="#ff0000"/1' dist/*.svg
+          for file in dist/*.svg; do
+            sed -i 's|</svg>|<style>svg path[stroke], svg rect:nth-last-child(1) { fill: #ff0000 !important; } .snake-head, path:first-of-type { stroke: #ff0000 !important; }</style></svg>|' "$file"
+          done
 
       - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
