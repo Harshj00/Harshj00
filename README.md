@@ -122,6 +122,7 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
 <br/>
 
 ## Snake 𓆙
+Bro is trying to reach his 10,000 steps for the day. :)
 
 <div align="center">
 
