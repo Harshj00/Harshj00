@@ -3,209 +3,333 @@
    <img alt="Logo for Harsh Kumar Jha" src="art/header-light.png">
 </picture>
 
-<h1 align="center">
-  Hey there, I'm <strong>Harsh Kumar Jha</strong>
-</h1>
+<div align="center">
 
-<p align="center">
+<br/>
+
+# Hey there, I'm Harsh Kumar Jha 👋
+
+<a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+%26+Backend+Developer;Java+%7C+Spring+Boot+%7C+PyTorch;Building+Production-Ready+AI+Systems;Backend+%7C+Machine+Learning+%7C+Computer+Vision"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=true&width=850&height=45&lines=Computer+Science+Engineering+Student;Java+%7C+Python+%7C+Spring+Boot+Developer;Building+Scalable+%26+Meaningful+Software;Exploring+AI%2C+ML+%26+Backend+Engineering;Always+Learning.+Always+Building."
     alt="Typing SVG"
   />
-</p>
-<p align="center">
-  <a href="https://Harshjha08.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <a href="https://www.linkedin.com/in/harshgod/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+</a>
 
 <br/>
 
-<h2 align="center">👨‍💻 About Me</h2>
+<a href="https://github.com/Harshj00">
+  <img src="https://komarev.com/ghpvc/?username=Harshj00&label=PROFILE%20VIEWS&color=111111&style=for-the-badge" alt="Profile views" />
+</a>
+&nbsp;
+<a href="https://github.com/Harshj00?tab=followers">
+  <img src="https://img.shields.io/github/followers/Harshj00?label=FOLLOWERS&style=for-the-badge&color=111111&labelColor=000000" alt="GitHub followers" />
+</a>
 
-<table align="center">
+</div>
+
+<br/>
+
+---
+
+## 🖤 About Me
+
+<table>
 <tr>
+<td width="65%" valign="middle">
 
-<td width="65%" valign="top">
+### Hey! I'm Harsh 👨‍💻
 
-- 💻 Final-year **Computer Science & Engineering** student
-- ⚙️ Focused on **Java, Spring Boot, backend engineering & REST APIs**
-- 🤖 Building AI systems with **PyTorch, TorchScript, DJL & LLM APIs**
-- 🔬 Interested in **Machine Learning, Computer Vision & real-time inference**
-- 🗄️ Working with **PostgreSQL, Supabase, Docker & Oracle Cloud**
-- 🧠 Strengthening **DSA, OOP, System Design, DBMS & Operating Systems**
-- 🚀 Building practical software around **AI + backend systems**
-- 🎯 Focused on becoming a strong **Software Engineer**
+I'm a **Computer Science Engineering student** passionate about turning ideas into useful, scalable, and visually polished software.
+
+- 🚀 Building projects across **Full-Stack Development, AI/ML & Backend Engineering**
+- ☕ Working primarily with **Java, Python & Spring Boot**
+- 🧠 Exploring **Artificial Intelligence, Machine Learning & Generative AI**
+- 🗄️ Comfortable working with **SQL, PostgreSQL & MySQL**
+- ⚡ Interested in **clean architecture, scalable systems & developer tools**
+- 🔨 I enjoy transforming concepts into **real-world applications**
+- 📚 Constantly learning, experimenting, and improving
+- 🎯 Focused on becoming a stronger **Software Engineer**
 
 <br/>
 
-> **Build quietly. Learn relentlessly. Let the work speak.**
+> **"Build. Break. Learn. Repeat."**
 
 </td>
 
 <td width="35%" align="center" valign="middle">
 
 <img
-  src="https://github.com/user-attachments/assets/PLACEHOLDER"
-  width="180"
+  src="https://github.com/Harshj00.png"
+  width="230"
   alt="Harsh Kumar Jha"
 />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/SPRING_BOOT-000000?style=for-the-badge&logo=spring&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/PYTORCH-000000?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<a href="https://github.com/Harshj00">
+  <img
+    src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
 
 </td>
-
 </tr>
 </table>
 
-<br/>
+---
 
-<h2 align="center">💻 Tech Stack</h2>
+## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js&theme=dark&perline=8"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,react,tailwind&theme=dark&perline=8"/>
-</p>
+### Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark&perline=8"/>
-  <img src="https://img.shields.io/badge/TorchScript-000000?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DJL-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLM%20APIs-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,docker,oracle,git,github&theme=dark&perline=8"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,postman&theme=dark&perline=8"/>
-</p>
-
-<br/>
-
-<td width="50%" valign="middle" align="center">
-
-<h3>Engineering Focus</h3>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring%20Boot-000000?style=for-the-badge&logo=spring&logoColor=white"/>
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,javascript&theme=dark" alt="Programming languages" />
+</a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-PyTorch%20%7C%20DJL-000000?style=for-the-badge&logo=pytorch&logoColor=white"/>
+### Frameworks & Development
+
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,tailwind,nodejs&theme=dark" alt="Frameworks and development technologies" />
+</a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Database-PostgreSQL%20%7C%20Supabase-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
+### AI / ML & Data
+
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy&theme=dark" alt="AI ML and data technologies" />
+</a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Infrastructure-Docker%20%7C%20OCI-000000?style=for-the-badge&logo=docker&logoColor=white"/>
+### Databases, Cloud & Tools
 
-<br/><br/>
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,docker,vercel,idea,vscode&theme=dark" alt="Databases cloud and developer tools" />
+</a>
 
-<img src="https://img.shields.io/badge/Core-DSA%20%7C%20OOP%20%7C%20System%20Design-000000?style=for-the-badge&logoColor=white"/>
+</div>
 
-</td>
+---
 
-</tr>
-</table>
+## 📊 GitHub Analytics
 
-<br/>
-
-
-<br/>
-
-<h2 align="center">📈 GitHub Analytics</h2>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Harshj00&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666"
-    width="65%"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Harshj00&bg_color=0D1117&color=AAAAAA&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=true"
-    width="92%"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
-<br/>
-
-<h2 align="center">🐍 Contribution Graph</h2>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Harshj00/Harshj00/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-    width="90%"
-  />
-</p>
-
-<br/>
-
-<h2 align="center">🌐 Let's Connect</h2>
-
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Harshj00">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Harshj00&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&ring_color=ffffff&include_all_commits=true&count_private=true"
+    alt="Harsh's GitHub statistics"
+  />
 </a>
 
-<a href="https://www.linkedin.com/in/harshgod/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/Harshj00">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshj00&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9&langs_count=8"
+    alt="Harsh's top languages"
+  />
 </a>
 
-<a href="https://x.com/harsh_j0">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+<br/><br/>
 
-<a href="https://www.instagram.com/byte_biceps/">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<img
+  src="https://streak-stats.demolab.com?user=Harshj00&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=C9C9C9&dates=777777"
+  alt="GitHub streak"
+/>
 
-<a href="https://www.youtube.com/@ByteBiceps">
-  <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="mailto:harshjha082004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 <br/>
 
-<p align="center">
-  <sub>Build quietly. Keep learning. Let the work speak.</sub>
-</p>
+## 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
+
+<a href="https://github.com/Harshj00">
   <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Harshj00&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=222222&hide_border=true&custom_title=Harsh%20Kumar%20Jha%27s%20Contribution%20Graph"
+    width="98%"
+    alt="GitHub contribution activity graph"
+  />
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!--
+  SNAKE ANIMATION
+  GitHub Action:
+  https://github.com/Platane/snk
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshj00/Harshj00/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshj00/Harshj00/output/github-contribution-grid-snake.svg">
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/Harshj00/Harshj00/output/github-contribution-grid-snake-dark.svg"
+    width="95%"
+  />
+</picture>
+
+</div>
+
+<!--
+  ╔════════════════════════════════════════════════════════════════════════╗
+  ║                     SNAKE GITHUB ACTION                                ║
+  ╚════════════════════════════════════════════════════════════════════════╝
+
+  Create:
+  .github/workflows/snake.yml
+
+  Then add:
+
+  name: Generate Snake
+
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: ${{ github.repository_owner }}
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+        - uses: crazy-max/ghaction-github-pages@v4
+          with:
+            build_dir: dist
+          env:
+            GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+            BUILD_DIR: dist
+-->
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Harshj00">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Harshj00&repo=HarshTrains&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&border_color=333333"
+    alt="HarshTrains"
+  />
+</a>
+
+<a href="https://github.com/Harshj00">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Harshj00&repo=openenv_project&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&border_color=333333"
+    alt="OpenEnv Project"
+  />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/Harshj00?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000"
+    alt="View all projects"
+  />
+</a>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/harshgod/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://x.com/Harshj00">
+  <img
+    src="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=x&logoColor=000000&labelColor=000000"
+    alt="X"
+  />
+</a>
+
+<a href="https://www.instagram.com/Harshj00/">
+  <img
+    src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=000000"
+    alt="Instagram"
+  />
+</a>
+
+<a href="https://www.youtube.com/@Harshj00">
+  <img
+    src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=000000"
+    alt="YouTube"
+  />
+</a>
+
+<a href="mailto:your.email@example.com">
+  <img
+    src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000"
+    alt="Email"
+  />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Let's build something awesome together. 🖤
+
+<a href="https://github.com/Harshj00">
+  <img
+    src="https://img.shields.io/badge/OPEN%20TO%20COLLABORATION-111111?style=for-the-badge&logo=github&logoColor=white"
+    alt="Open to collaboration"
+  />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                           PREMIUM FOOTER                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<a href="https://github.com/Harshj00">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:242424,50:111111,100:000000&height=140&section=footer&animation=fadeIn"
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:555555,100:000000&height=140&section=footer"
     alt="Footer"
   />
-</p>
+</a>
+
+</div>
