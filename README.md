@@ -1,4 +1,7 @@
-
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Harsh Kumar Jha" src="art/header-light.png">
+</picture>
 
 <h1 align="center">
   Hey there, I'm <strong>Harsh Kumar Jha</strong>
