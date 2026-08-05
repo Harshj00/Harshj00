@@ -16,7 +16,7 @@
 <tr>
 <td width="65%" valign="middle">
 
-### Hello! I'm Harsh Jha 𓀝
+### Hey! I'm Harsh 𓀝
 
 I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas into useful, scalable, and visually polished software.
 
