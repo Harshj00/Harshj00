@@ -7,11 +7,11 @@
 
 <br/>
 
-# Hey there, I'm Harsh Kumar Jha 👋
+# ✧ Harsh Kumar Jha ✧
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=true&width=850&height=45&lines=Computer+Science+Engineering+Student;Java+%7C+Python+%7C+Spring+Boot+Developer;Building+Scalable+%26+Meaningful+Software;Exploring+AI%2C+ML+%26+Backend+Engineering;Always+Learning.+Always+Building."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=true&width=850&height=45&lines=Computer+Science+Engineer;Java+%7C+Python+%7C+Spring+Boot+Developer;Building+Scalable+%26+Meaningful+Software;Exploring+AI%2C+ML+%26+Backend+Engineering;Always+Learning.+Always+Building."
     alt="Typing SVG"
   />
 </a>
