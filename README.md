@@ -65,7 +65,7 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
 
 ---
 
-## ⚡ Tech Stack
+## </> Tech Stack
 
 <div align="center">
 
@@ -121,31 +121,9 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
 
 <br/>
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/Harshj00">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Harshj00&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=222222&hide_border=true&custom_title=Harsh%20Kumar%20Jha%27s%20Contribution%20Graph"
-    width="98%"
-    alt="GitHub contribution activity graph"
-  />
-</a>
-
-</div>
-
----
-
 ## Snake 𓆙
 
 <div align="center">
-
-<!--
-  SNAKE ANIMATION
-  GitHub Action:
-  https://github.com/Platane/snk
--->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshj00/Harshj00/output/github-contribution-grid-snake-dark.svg">
@@ -198,18 +176,3 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                           PREMIUM FOOTER                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<a href="https://github.com/Harshj00">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:242424,50:111111,100:000000&height=140&section=footer&animation=fadeIn"
-    width="100%"
-    alt="Footer"
-  />
-</a>
-
-</div>
