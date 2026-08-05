@@ -23,8 +23,6 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
 - Building projects across **Full-Stack Development, AI/ML & Backend Engineering**
 - Working primarily with **Java, Python & Spring Boot**
 - Exploring **Artificial Intelligence, Machine Learning & Generative AI**
-- Comfortable working with **SQL, PostgreSQL & MySQL**
-- Interested in **clean architecture, scalable systems & developer tools**
 - I enjoy transforming concepts into **real-world applications**
 - Constantly learning, experimenting, and improving
 
