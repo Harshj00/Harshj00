@@ -1,5 +1,3 @@
-<br/>
-
 # ✧ Harsh Kumar Jha ✧
 
 <a href="https://git.io/typing-svg">
