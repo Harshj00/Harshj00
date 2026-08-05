@@ -13,20 +13,9 @@
     alt="Typing SVG"
   />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Harshj00?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=000000&color=242424"/>
-  <img src="https://img.shields.io/github/stars/Harshj00?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=000000&color=242424"/>
-  <img src="https://komarev.com/ghpvc/?username=Harshj00&style=for-the-badge&color=242424&label=Profile+Views&labelColor=000000"/>
-</p>
-
 <p align="center">
   <a href="https://Harshjha08.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Harshj00">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/harshgod/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -113,129 +102,6 @@
 </p>
 
 <br/>
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table align="center">
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">HJFraudguard</h3>
-
-<p align="center">
-  <strong>Real-Time AI Fraud Detection System</strong>
-</p>
-
-Spring Boot backend integrating a **PyTorch Autoencoder through DJL**, loading TorchScript models directly inside the JVM for real-time fraud inference.
-
-<br/>
-
-<strong>Highlights</strong>
-
-- 284,807 real transactions
-- 0.97 AUC
-- 0.58 F1
-- 63% precision
-- JWT authentication
-- PostgreSQL analytics
-- React + Tailwind dashboard
-- Dockerized services
-
-<p align="center">
-  <code>Java 21</code>
-  <code>Spring Boot</code>
-  <code>PyTorch</code>
-  <code>DJL</code>
-  <code>React</code>
-  <code>PostgreSQL</code>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Harshj00/HJFraudguard">
-    <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">ConsultCA</h3>
-
-<p align="center">
-  <strong>AI Co-Pilot for Indian CAs & CA Students</strong>
-</p>
-
-Full-stack AI co-pilot integrating the **OpenAI GPT API** with prompt streaming to assist with Indian tax-law research and regulatory queries.
-
-<br/>
-
-<strong>Highlights</strong>
-
-- OpenAI GPT API
-- Prompt streaming
-- Real-time regulatory responses
-- PostgreSQL data layer
-- Per-user data isolation
-- Dockerized services
-- 60% reduction in manual research time
-
-<p align="center">
-  <code>React</code>
-  <code>Supabase</code>
-  <code>PostgreSQL</code>
-  <code>OpenAI API</code>
-  <code>Docker</code>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Harshj00/ConsultCA">
-    <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">HarshTrains</h3>
-
-<p align="center">
-  <strong>Browser-Native AI Fitness Coach</strong>
-</p>
-
-Mobile-first fitness platform featuring **100+ exercises**, workout tracking, muscle-group mapping and browser-based AI pose analysis.
-
-<br/>
-
-<strong>Highlights</strong>
-
-- MediaPipe pose estimation
-- Frame-by-frame joint-angle analysis
-- INT8 model quantization
-- <100ms/frame inference
-- 30+ FPS on mobile hardware
-- Mobile-first architecture
-
-<p align="center">
-  <code>JavaScript</code>
-  <code>MediaPipe</code>
-  <code>HTML5 Canvas</code>
-  <code>REST APIs</code>
-</p>
-
-<p align="center">
-  <a href="https://harshtrains.netlify.app">
-    <img src="https://img.shields.io/badge/Live%20Project-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
-
-</td>
 
 <td width="50%" valign="middle" align="center">
 
