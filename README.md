@@ -1,17 +1,12 @@
-# ✧ Harsh Kumar Jha ✧
-
+<h1 align="center">✧ Harsh Kumar Jha ✧</h1>
+<div align = "center">
 <a href="https://git.io/typing-svg">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=true&width=850&height=45&lines=Computer+Science+Engineer;Java+%7C+Python+%7C+Spring+Boot+Developer;Building+Scalable+%26+Meaningful+Software;Exploring+AI%2C+ML+%26+Backend+Engineering;Always+Learning.+Always+Building."
     alt="Typing SVG"
   />
 </a>
-
-<br/>
-
 </div>
-
-<br/>
 
 ---
 
@@ -21,7 +16,7 @@
 <tr>
 <td width="65%" valign="middle">
 
-### Hey! I'm Harsh 👨‍💻
+### Hello! I'm Harsh Jha 𓀝
 
 I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas into useful, scalable, and visually polished software.
 
@@ -32,7 +27,6 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
 - Interested in **clean architecture, scalable systems & developer tools**
 - I enjoy transforming concepts into **real-world applications**
 - Constantly learning, experimenting, and improving
-<br/>
 
 > **"Build. Break. Learn. Repeat."**
 
@@ -46,9 +40,9 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
   alt="Harsh Kumar Jha"
 />
 
-<br/><br/>
+<br/>
 
-**✵✵✵✵✵✵✵✵✵✵**
+**I swear I'm woke on code, even if my neck pillow says otherwise**<h2 align="center">    😴</h2>
 
 </td>
 </tr>
@@ -65,16 +59,14 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
 <a href="#">
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,javascript&theme=dark" alt="Programming languages" />
 </a>
-
-<br/><br/>
+<br/>
 
 ### Frameworks & Development
 
 <a href="#">
   <img src="https://skillicons.dev/icons?i=spring,react,nextjs,tailwind,nodejs&theme=dark" alt="Frameworks and development technologies" />
 </a>
-
-<br/><br/>
+<br/>
 
 ### AI / ML & Data
 
@@ -84,8 +76,7 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
   alt="AI ML and Data Technologies"
 />
 </a>
-
-<br/><br/>
+<br/>
 
 ### Databases, Cloud & Tools
 
@@ -97,11 +88,9 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
 
 ---
 
-## 📊 GitHub Analytics
+## Github
 
 <div align="center">
-
-<br/><br/>
 
 <img
   src="https://streak-stats.demolab.com?user=Harshj00&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=C9C9C9&dates=777777"
@@ -110,7 +99,7 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
 
 </div>
 
-<br/>
+---
 
 ## Snake 𓆙
 Bro is trying to reach his 10,000 steps for the day. :)
@@ -149,12 +138,7 @@ Bro is trying to reach his 10,000 steps for the day. :)
   />
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
-
+<br/><br/>
 ### Let's build something awesome together.
 
 <a href="https://github.com/Harshj00">
@@ -165,6 +149,4 @@ Bro is trying to reach his 10,000 steps for the day. :)
 </a>
 
 </div>
-
-<br/>
 
