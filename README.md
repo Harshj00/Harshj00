@@ -179,64 +179,6 @@
   />
 </p>
 
-<!--
-===============================================================
-SNAKE SETUP
-===============================================================
-
-Create this file:
-
-.github/workflows/snake.yml
-
-Paste:
-
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Harshj00
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish Snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-          jekyll: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-IMPORTANT:
-The workflow publishes the SVG to the `output` branch.
-
-After the GitHub Action runs successfully, this image will work:
-
-https://raw.githubusercontent.com/Harshj00/Harshj00/output/github-contribution-grid-snake-dark.svg
-
-If the image does not appear immediately:
-- Open the Actions tab
-- Run "Generate Contribution Snake" manually
-- Wait for the workflow to finish
-- Refresh your profile README
-
-===============================================================
--->
-
 <br/>
 
 <h2 align="center">🌐 Let's Connect</h2>
