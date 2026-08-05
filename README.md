@@ -137,7 +137,7 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
 
 ---
 
-## Snake
+## Snake 𓆙
 
 <div align="center">
 
@@ -159,19 +159,6 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
 
 </div>
 
-<!--
-  ╔════════════════════════════════════════════════════════════════════════╗
-  ║                     SNAKE GITHUB ACTION                                ║
-  ╚════════════════════════════════════════════════════════════════════════╝
-
-  Create:
-  .github/workflows/snake.yml
-
-  Then add:
-
- 
--->
-
 ---
 
 ## ⚇ Connect With Me
@@ -187,8 +174,8 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
 
 <a href="mailto:harshjha082004@gmail.com">
   <img
-    src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000"
-    alt="Email"
+    src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000"
+    alt="E-mail"
   />
 </a>
 
