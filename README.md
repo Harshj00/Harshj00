@@ -89,7 +89,7 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
 
 <a href="#">
   <img
-  src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,numpy,pandas,matplotlib,jupyter&theme=dark"
+  src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark"
   alt="AI ML and Data Technologies"
 />
 </a>
@@ -109,22 +109,6 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<a href="https://github.com/Harshj00">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Harshj00&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&ring_color=ffffff&include_all_commits=true&count_private=true"
-    alt="Harsh's GitHub statistics"
-  />
-</a>
-
-<a href="https://github.com/Harshj00">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshj00&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9c9c9&langs_count=8"
-    alt="Harsh's top languages"
-  />
-</a>
 
 <br/><br/>
 
@@ -153,7 +137,7 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
 
 ---
 
-## 🐍 Contribution Snake
+## Snake
 
 <div align="center">
 
@@ -185,70 +169,12 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
 
   Then add:
 
-  name: Generate Snake
-
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-        - uses: crazy-max/ghaction-github-pages@v4
-          with:
-            build_dir: dist
-          env:
-            GH_PAT: ${{ secrets.GITHUB_TOKEN }}
-            BUILD_DIR: dist
+ 
 -->
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Harshj00">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Harshj00&repo=HarshTrains&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&border_color=333333"
-    alt="HarshTrains"
-  />
-</a>
-
-<a href="https://github.com/Harshj00">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=Harshj00&repo=openenv_project&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&border_color=333333"
-    alt="OpenEnv Project"
-  />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/Harshj00?tab=repositories">
-  <img
-    src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000"
-    alt="View all projects"
-  />
-</a>
-
-</div>
-
----
-
-## 🤝 Connect With Me
+## ⚇ Connect With Me
 
 <div align="center">
 
@@ -259,28 +185,7 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
   />
 </a>
 
-<a href="https://x.com/Harshj00">
-  <img
-    src="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=x&logoColor=000000&labelColor=000000"
-    alt="X"
-  />
-</a>
-
-<a href="https://www.instagram.com/Harshj00/">
-  <img
-    src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=000000"
-    alt="Instagram"
-  />
-</a>
-
-<a href="https://www.youtube.com/@Harshj00">
-  <img
-    src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=000000"
-    alt="YouTube"
-  />
-</a>
-
-<a href="mailto:your.email@example.com">
+<a href="mailto:harshjha082004@gmail.com">
   <img
     src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000"
     alt="Email"
@@ -293,7 +198,7 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
 
 <div align="center">
 
-### Let's build something awesome together. 🖤
+### Let's build something awesome together.
 
 <a href="https://github.com/Harshj00">
   <img
