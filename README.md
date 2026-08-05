@@ -51,18 +51,13 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
 
 <img
   src="https://github.com/Harshj00.png"
-  width="230"
+  width="260"
   alt="Harsh Kumar Jha"
 />
 
 <br/><br/>
 
-<a href="https://github.com/Harshj00">
-  <img
-    src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
+**✵✵✵✵✵✵✵✵✵✵**
 
 </td>
 </tr>
@@ -93,7 +88,10 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
 ### AI / ML & Data
 
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy&theme=dark" alt="AI ML and data technologies" />
+  <img
+  src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,numpy,pandas,matplotlib,jupyter&theme=dark"
+  alt="AI ML and Data Technologies"
+/>
 </a>
 
 <br/><br/>
