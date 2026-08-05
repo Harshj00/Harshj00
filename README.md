@@ -40,7 +40,7 @@ I'm a **Software Developer & AI/ML Engineer** passionate about turning ideas int
   alt="Harsh Kumar Jha"
 />
 
-<br/>
+<br/><br/>
 
 **I swear I'm woke on code, even if my neck pillow says otherwise**<h2 align="center">    😴</h2>
 
