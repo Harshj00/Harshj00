@@ -10,7 +10,7 @@
 
 ---
 
-## 𓀋 About Me
+## About Me
 
 <table>
 <tr>
